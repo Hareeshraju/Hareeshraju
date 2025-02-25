@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hareeshraju
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning 11th
+- 🌱 I’m currently learning btech it 
 - 💞️ I’m looking to collaborate on a projec
 - 📫 How to reach me ...
 
